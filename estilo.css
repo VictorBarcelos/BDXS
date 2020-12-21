@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+#logo {
+    width: 22%;
+    position: relative;
+}
+
+body {
+    margin: auto;
+    background-image: url('imgs/fundo_camuflado.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+img#rodape {
+    position: relative;
+    width: 10%;
+}
+
+li {
+    line-height: 25px;
+}
+
+a {
+    color: black;
+}
+
+/*---------------------------------------------A R---------------------------------------------*/
+
+div#esquerda{
+    width: 300px;
+    height: auto;
+    padding: 0px 15px 15px 15px;
+    float: left;
+    position: relative;
+    left: 20%;
+    background-color: #c3c2b0;
+
+    margin-bottom: 100px;
+
+    border: 3px solid rgb(77, 77, 77);
+
+}
+
+#ar {
+    position: relative;
+    float: left;
+    right: 16%;
+    width: 50%;
+}
+
+/*---------------------------------------------Á G U A---------------------------------------------*/
+
+aside#direita {
+    width: 300px;
+    padding: 0px 15px 15px 15px;
+    float: right;
+    position: relative;
+    right: 20%;
+    background-color: #c3c2b0;
+
+    margin-bottom: 100px;
+
+    border: 3px solid rgb(77, 77, 77);
+
+}
+
+#agua {
+    position: relative;
+    float: right;
+    left: 17%;
+    width: 50%;
+
+}
